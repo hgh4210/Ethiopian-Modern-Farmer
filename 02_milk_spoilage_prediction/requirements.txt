@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+# matplotlib and seaborn (optional, if you want to add plots from notebook)
