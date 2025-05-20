@@ -1,8 +1,6 @@
 # የኢትዮጵያ ዘመናዊ ገበሬ (Ethiopian Modern Farmer)
 
 **ስሪት:** 1.0.0
-**ማከማቻ (Repository):** [https://github.com/Aman-byte1/Ethiopian-Modern-Farmer.git](https://github.com/Aman-byte1/Ethiopian-Modern-Farmer.git)
-**የግንኙነት መረጃ:** [geaman73@gmail.com](mailto:geaman73@gmail.com)
 
 ## የይዘት ማውጫ
 
