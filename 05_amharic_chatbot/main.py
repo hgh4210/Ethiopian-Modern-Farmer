@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import os
 
-# --- Page Setup and Title (in Amharic) ---
+# --- Page Setup and Title ---
 st.set_page_config(page_title="የግብርና አማካሪ ቻትቦት", layout="centered", initial_sidebar_state="collapsed")
 st.title("🤖 የግብርና እና ምግብ አማካሪ (AI Chatbot)")
 st.caption("በአማርኛ ስለ ግብርና እና ምግብ ጉዳዮች ይጠይቁ") # Ask about agriculture and food issues in Amharic
@@ -48,7 +48,6 @@ try:
         # safety_settings={
         #     'HATE': 'BLOCK_NONE',
         #     'HARASSMENT': 'BLOCK_NONE',
-        #     'SEXUAL' : 'BLOCK_NONE',
         #     'DANGEROUS' : 'BLOCK_NONE'
         # }
     )
@@ -113,4 +112,4 @@ if st.sidebar.button("ውይይቱን አጽዳ"): # Clear Chat
     st.rerun()
 
 st.sidebar.markdown("---")
-st.sidebar.info(f"የሚጠቀመው ሞዴል: {MODEL_NAME}") # Model in use:
+st.sidebar.info(f"የሚጠቀመው ሞዴል: {MODEL_NAME}") 
